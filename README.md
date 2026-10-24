@@ -28,6 +28,7 @@
 **Guild:** none yet, recruiting
 **Main quest:** build weird things that work
 **Side quest:** sleep *(failing)*
+**Hobbies:** chess ♟️ · Formula 1 🏎️ · card games 🃏
 
 </td>
 <td width="50%" align="center">
@@ -108,6 +109,83 @@
 
 ---
 
+## 🏎️ Formula Yogesh
+
+<div align="center">
+
+<img src="assets/race.svg" alt="F1 race" width="100%" />
+
+</div>
+
+**🏁 Championship Standings** *(not actually FIA approved)*
+
+| Pos | Project | Points |
+|:-:|---|:-:|
+| 🥇 P1 | [Galaxy Collision](https://Stfuyogesh.github.io/Galaxy-Collision-An-Interactive-3D-Barnes-Hut-Simulation) | 25 |
+| 🥈 P2 | [Tiny Shakshphere GPT](https://github.com/Stfuyogesh/Tiny-Shakshphere-Gpt) | 18 |
+| 🥉 P3 | [Let Jesus Decide](https://Stfuyogesh.github.io/LETJESUSDECIDE) | 15 |
+| P4 | [Undertone](https://github.com/Stfuyogesh/UNDERTONE) | 12 |
+
+---
+
+## ♟️ Chess Corner
+
+<div align="center">
+
+<img src="assets/chess.svg" alt="chess puzzle" width="380" />
+
+**White to move. Find the checkmate in 1.**
+
+</div>
+
+<details>
+<summary><b>👀 Reveal the answer</b></summary>
+
+<br>
+
+**Qxf7#** 👑 The queen takes f7, the bishop on c4 protects her, and the king has nowhere to run. That's Scholar's Mate.
+
+</details>
+
+---
+
+## 🃏 Pick a Card
+
+*Pick any card. Your fate is one click away.*
+
+<div align="center">
+<table>
+<tr>
+<td align="center" valign="top">
+<details>
+<summary><img src="assets/card_back.svg" width="90" alt="card" /></summary>
+<br><b>♠ Ace of Spades</b><br>Go watch galaxies collide.<br><a href="https://Stfuyogesh.github.io/Galaxy-Collision-An-Interactive-3D-Barnes-Hut-Simulation">▶ Play</a>
+</details>
+</td>
+<td align="center" valign="top">
+<details>
+<summary><img src="assets/card_back.svg" width="90" alt="card" /></summary>
+<br><b>♥ Queen of Hearts</b><br>See a tiny brain learn Shakespeare.<br><a href="https://github.com/Stfuyogesh/Tiny-Shakshphere-Gpt">▶ Open</a>
+</details>
+</td>
+<td align="center" valign="top">
+<details>
+<summary><img src="assets/card_back.svg" width="90" alt="card" /></summary>
+<br><b>🃏 The Joker</b><br>Let fate cure your boredom.<br><a href="https://Stfuyogesh.github.io/LETJESUSDECIDE">▶ Spin</a>
+</details>
+</td>
+<td align="center" valign="top">
+<details>
+<summary><img src="assets/card_back.svg" width="90" alt="card" /></summary>
+<br><b>♣ King of Clubs</b><br>Find the hidden layer.<br><a href="https://github.com/Stfuyogesh/UNDERTONE">▶ Open</a>
+</details>
+</td>
+</tr>
+</table>
+</div>
+
+---
+
 ## 💬 Talk to the NPC
 
 *Pick a dialogue option:*
@@ -183,7 +261,7 @@ Each button opens a pre-filled issue. Press **Submit** and your vote counts.
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white) 
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
 
@@ -195,6 +273,6 @@ Each button opens a pre-filled issue. Press **Submit** and your vote counts.
 
 <br><br>
 
-*"I have a life ❤️"*
+*"I have a life ❤️ "*
 
 </div>
