@@ -10,7 +10,7 @@
 
 <div align="center">
 
-**Not sure where to start?** &nbsp; [**🎲 Let Jesus Decide**](https://Stfuyogesh.github.io/let-jesus-decide) &nbsp; (yes, really)
+**Bored? Not sure where to start?** &nbsp; [**🎲 Let Jesus Decide**](https://Stfuyogesh.github.io/LETJESUSDECIDE) &nbsp; (yes, really)
 
 </div>
 
@@ -42,51 +42,67 @@
 
 ## ⚔️ Quest Log
 
-### 🌌 Quest 1: Galaxy
-*Reward: a universe you can actually play with.*
+### 🌌 Quest 1: Galaxy Collision
+*Reward: watch two galaxies crash into each other, in 3D.*
 
 <details>
 <summary><b>📜 Open quest details</b></summary>
 
 <br>
 
-- **Goal:** explore a galaxy that reacts to you
+- **Goal:** an interactive 3D galaxy collision simulation using the Barnes-Hut algorithm
 - **Gear:** ![JS](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black) ![HTML](https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=white)
-- **Status:** 🟢 in progress
+- **Status:** 🟣 live
 
-[**▶ Enter the galaxy**](https://Stfuyogesh.github.io/galaxy) · [source](https://github.com/Stfuyogesh/galaxy)
+[**▶ Enter the simulation**](https://Stfuyogesh.github.io/Galaxy-Collision-An-Interactive-3D-Barnes-Hut-Simulation) · [source](https://github.com/Stfuyogesh/Galaxy-Collision-An-Interactive-3D-Barnes-Hut-Simulation)
 
 </details>
 
-### 🧠 Quest 2: TinyGPT
-*Reward: understanding how GPT thinks, by building a tiny brain myself.*
+### 🧠 Quest 2: Tiny Shakshphere GPT
+*Reward: understanding how GPT and Claude work, by building a tiny one myself.*
 
 <details>
 <summary><b>📜 Open quest details</b></summary>
 
 <br>
 
-- **Goal:** a small GPT written from scratch, no magic libraries
+- **Goal:** a GPT-style transformer built from scratch (attention, multi-head attention, training loop), trained on Shakespeare
 - **Gear:** ![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white) ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?logo=pytorch&logoColor=white)
-- **Status:** 🟢 in progress
+- **Status:** 🟢 built, still experimenting
 
-[**▶ Run it in Colab**](https://colab.research.google.com/github/Stfuyogesh/tinygpt/blob/main/demo.ipynb) · [source](https://github.com/Stfuyogesh/tinygpt)
+[**▶ View the code**](https://github.com/Stfuyogesh/Tiny-Shakshphere-Gpt)
 
 </details>
 
 ### ✝️ Quest 3: Let Jesus Decide
-*Reward: never argue about where to eat again.*
+*Reward: the cure for boredom.*
 
 <details>
 <summary><b>📜 Open quest details</b></summary>
 
 <br>
 
-- **Goal:** you give the options, fate picks one
-- **Gear:** ![JS](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black) ![HTML](https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=white)
+- **Goal:** a website you open when you're bored and can't decide what to do
+- **Gear:** ![CSS](https://img.shields.io/badge/CSS3-1572B6?logo=css3&logoColor=white) ![JS](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black) ![HTML](https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=white)
 - **Status:** 🟣 live
 
-[**▶ Let Jesus decide**](https://Stfuyogesh.github.io/let-jesus-decide) · [source](https://github.com/Stfuyogesh/let-jesus-decide)
+[**▶ Cure my boredom**](https://Stfuyogesh.github.io/LETJESUSDECIDE) · [source](https://github.com/Stfuyogesh/LETJESUSDECIDE)
+
+</details>
+
+### 🎵 Quest 4: Undertone
+*Reward: a hidden layer you didn't know was there.*
+
+<details>
+<summary><b>📜 Open quest details</b></summary>
+
+<br>
+
+- **Goal:** (edit this line: one sentence on what Undertone does)
+- **Gear:** ![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white)
+- **Status:** 🟢 in progress
+
+[**▶ View the code**](https://github.com/Stfuyogesh/UNDERTONE)
 
 </details>
 
@@ -106,11 +122,11 @@
 </details>
 
 <details>
-<summary>🗨️ <b>"Why a galaxy, a tiny GPT, and Jesus?"</b></summary>
+<summary>🗨️ <b>"Why galaxies, a tiny GPT, and Jesus?"</b></summary>
 
 <br>
 
-> *"Because curiosity doesn't pick a lane. Space is big, AI is weird, and indecision is universal."*
+> *"Because curiosity doesn't pick a lane. Space is big, AI is weird, and boredom is universal."*
 
 </details>
 
@@ -137,7 +153,7 @@ Each button opens a pre-filled issue. Press **Submit** and your vote counts.
 
 <div align="center">
 
-[**⚔️ Send me a quest**](https://github.com/Stfuyogesh/Stfuyogesh/issues/new?title=Quest:%20&body=Tell%20me%20your%20idea!) &nbsp;·&nbsp; [**📜 Sign the guestbook**](https://github.com/Stfuyogesh/Stfuyogesh/issues/new?title=Guestbook:%20Hi!&body=Leave%20a%20message!) &nbsp;·&nbsp; [**🛡️ Join my guild**](mailto:YOUR_EMAIL)
+[**⚔️ Send me a quest**](https://github.com/Stfuyogesh/Stfuyogesh/issues/new?title=Quest:%20&body=Tell%20me%20your%20idea!) &nbsp;·&nbsp; [**📜 Sign the guestbook**](https://github.com/Stfuyogesh/Stfuyogesh/issues/new?title=Guestbook:%20Hi!&body=Leave%20a%20message!) &nbsp;·&nbsp; [**🛡️ Join my guild**](mailto:yogeshjhd@gmail.com)
 
 </div>
 
@@ -145,11 +161,31 @@ Each button opens a pre-filled issue. Press **Submit** and your vote counts.
 
 ## 🎒 Inventory
 
+**⚔️ Weapons (languages)**
+
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript_ES6+-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=databricks&logoColor=white)
+![Bash](https://img.shields.io/badge/Bash-4EAA25?style=flat-square&logo=gnubash&logoColor=white)
+
+**🔮 Spells (data & ML)**
+
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white)
+![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=flat-square&logo=plotly&logoColor=white)
 ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
+![Ollama](https://img.shields.io/badge/Ollama-000000?style=flat-square&logo=ollama&logoColor=white)
+![Predictive Modeling](https://img.shields.io/badge/Predictive_Modeling-7C3AED?style=flat-square)
+
+**🛡️ Armor (systems & tools)**
+
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white) 
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
 
 <div align="center">
 
@@ -159,7 +195,6 @@ Each button opens a pre-filled issue. Press **Submit** and your vote counts.
 
 <br><br>
 
-*"I have a life ❤️ it's just inside a git repo."*
-
+*"I have a life ❤️"*
 
 </div>
