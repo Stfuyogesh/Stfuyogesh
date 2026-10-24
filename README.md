@@ -10,7 +10,7 @@
 
 <div align="center">
 
-**Not sure where to start?** &nbsp; [**🎲 Let Jesus Decide**](https://YOUR_USERNAME.github.io/let-jesus-decide) &nbsp; (yes, really)
+**Not sure where to start?** &nbsp; [**🎲 Let Jesus Decide**](https://Stfuyogesh.github.io/let-jesus-decide) &nbsp; (yes, really)
 
 </div>
 
@@ -54,7 +54,7 @@
 - **Gear:** ![JS](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black) ![HTML](https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=white)
 - **Status:** 🟢 in progress
 
-[**▶ Enter the galaxy**](https://YOUR_USERNAME.github.io/galaxy) · [source](https://github.com/YOUR_USERNAME/galaxy)
+[**▶ Enter the galaxy**](https://Stfuyogesh.github.io/galaxy) · [source](https://github.com/Stfuyogesh/galaxy)
 
 </details>
 
@@ -70,7 +70,7 @@
 - **Gear:** ![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white) ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?logo=pytorch&logoColor=white)
 - **Status:** 🟢 in progress
 
-[**▶ Run it in Colab**](https://colab.research.google.com/github/YOUR_USERNAME/tinygpt/blob/main/demo.ipynb) · [source](https://github.com/YOUR_USERNAME/tinygpt)
+[**▶ Run it in Colab**](https://colab.research.google.com/github/Stfuyogesh/tinygpt/blob/main/demo.ipynb) · [source](https://github.com/Stfuyogesh/tinygpt)
 
 </details>
 
@@ -86,7 +86,7 @@
 - **Gear:** ![JS](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black) ![HTML](https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=white)
 - **Status:** 🟣 live
 
-[**▶ Let Jesus decide**](https://YOUR_USERNAME.github.io/let-jesus-decide) · [source](https://github.com/YOUR_USERNAME/let-jesus-decide)
+[**▶ Let Jesus decide**](https://Stfuyogesh.github.io/let-jesus-decide) · [source](https://github.com/Stfuyogesh/let-jesus-decide)
 
 </details>
 
@@ -131,13 +131,13 @@ Each button opens a pre-filled issue. Press **Submit** and your vote counts.
 
 | | Quest | Vote |
 |:-:|---|:-:|
-| 🤖 | Robot swarm simulator | [**Vote**](https://github.com/YOUR_USERNAME/YOUR_USERNAME/issues/new?title=Vote:%20Robot%20swarm&body=I%20vote%20for%20the%20robot%20swarm%20simulator!) |
-| 🎲 | Multiplayer browser game | [**Vote**](https://github.com/YOUR_USERNAME/YOUR_USERNAME/issues/new?title=Vote:%20Multiplayer%20game&body=I%20vote%20for%20a%20multiplayer%20game!) |
-| 🔭 | Space data explorer | [**Vote**](https://github.com/YOUR_USERNAME/YOUR_USERNAME/issues/new?title=Vote:%20Space%20explorer&body=I%20vote%20for%20a%20space%20data%20explorer!) |
+| 🤖 | Robot swarm simulator | [**Vote**](https://github.com/Stfuyogesh/Stfuyogesh/issues/new?title=Vote:%20Robot%20swarm&body=I%20vote%20for%20the%20robot%20swarm%20simulator!) |
+| 🎲 | Multiplayer browser game | [**Vote**](https://github.com/Stfuyogesh/Stfuyogesh/issues/new?title=Vote:%20Multiplayer%20game&body=I%20vote%20for%20a%20multiplayer%20game!) |
+| 🔭 | Space data explorer | [**Vote**](https://github.com/Stfuyogesh/Stfuyogesh/issues/new?title=Vote:%20Space%20explorer&body=I%20vote%20for%20a%20space%20data%20explorer!) |
 
 <div align="center">
 
-[**⚔️ Send me a quest**](https://github.com/YOUR_USERNAME/YOUR_USERNAME/issues/new?title=Quest:%20&body=Tell%20me%20your%20idea!) &nbsp;·&nbsp; [**📜 Sign the guestbook**](https://github.com/YOUR_USERNAME/YOUR_USERNAME/issues/new?title=Guestbook:%20Hi!&body=Leave%20a%20message!) &nbsp;·&nbsp; [**🛡️ Join my guild**](mailto:YOUR_EMAIL)
+[**⚔️ Send me a quest**](https://github.com/Stfuyogesh/Stfuyogesh/issues/new?title=Quest:%20&body=Tell%20me%20your%20idea!) &nbsp;·&nbsp; [**📜 Sign the guestbook**](https://github.com/Stfuyogesh/Stfuyogesh/issues/new?title=Guestbook:%20Hi!&body=Leave%20a%20message!) &nbsp;·&nbsp; [**🛡️ Join my guild**](mailto:YOUR_EMAIL)
 
 </div>
 
@@ -155,7 +155,7 @@ Each button opens a pre-filled issue. Press **Submit** and your vote counts.
 
 <br>
 
-<img src="https://komarev.com/ghpvc/?username=YOUR_USERNAME&label=Players%20online&color=7c3aed&style=flat-square" />
+<img src="https://komarev.com/ghpvc/?username=Stfuyogesh&label=Players%20online&color=7c3aed&style=flat-square" />
 
 <br><br>
 
