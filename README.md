@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="assets/header.svg" alt="Yogesh - wandering the galaxy" width="100%" />
+<img src="assets/header.svg" alt="Yogesh Singh - wandering the galaxy" width="100%" />
 
 </div>
 
