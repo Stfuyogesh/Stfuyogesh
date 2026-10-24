@@ -22,7 +22,7 @@
 <tr>
 <td width="50%" valign="top">
 
-**Name:** Yogesh
+**Name:** Yogesh Singh
 **Class:** CS & IT Student
 **Level:** 2 *(2nd year)*
 **Guild:** none yet, recruiting
